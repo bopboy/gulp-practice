@@ -1,3 +1,0 @@
-# Gulp practice
-
-Gulp practice 
