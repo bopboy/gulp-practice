@@ -1,0 +1,14 @@
+{
+  "name": "gulp-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bopboy/gulp-practice.git",
+  "author": "bopboy <39391891+bopboy@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
