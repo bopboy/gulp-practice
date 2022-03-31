@@ -5,6 +5,10 @@
   "repository": "https://github.com/bopboy/gulp-practice.git",
   "author": "bopboy <39391891+bopboy@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
   "dependencies": {
     "gulp-cli": "^2.3.0"
   },
